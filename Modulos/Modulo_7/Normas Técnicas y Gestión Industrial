@@ -1,0 +1,86 @@
+📏 Syllabus Técnico – Normas Técnicas y Gestión Industrial
+🧭 Objetivo general
+Comprender, aplicar y documentar prácticas de gestión técnica alineadas con normas internacionales (ISO, IEC, ISA), orientadas al mantenimiento, la trazabilidad, la calidad y la confiabilidad operativa.
+
+📘 Requisitos previos
+Experiencia básica en mantenimiento industrial.
+
+Familiaridad con la documentación técnica en planta.
+
+Lectura e interpretación de fichas, planes o historiales técnicos.
+
+🧱 Contenidos del módulo
+1. Normas ISO e industriales clave
+ISO 9001: Gestión de la calidad.
+
+ISO 55001: Gestión de activos físicos.
+
+ISO 14224: Datos para confiabilidad y mantenimiento.
+
+ISO 10012: Metrología y calibración.
+
+ISA 5.1: Simbología de instrumentación.
+
+2. Gestión del mantenimiento
+Tipos: correctivo, preventivo, predictivo.
+
+TPM (Total Productive Maintenance).
+
+5S, mejora continua, eficiencia operativa.
+
+Fichero histórico, indicadores clave (KPIs).
+
+3. Documentación técnica
+Fichas de equipos, hojas de calibración, informes de falla.
+
+Manuales, planos, instructivos operativos.
+
+Control de versiones y respaldo de datos.
+
+4. Trazabilidad técnica
+Codificación y registro por activos.
+
+Estructuras de datos técnicos.
+
+Registro de eventos, responsables, condiciones, causas, acciones.
+
+Uso de bases de datos o sistemas (CMMS, hojas de cálculo, etc.)
+
+5. Confiabilidad y toma de decisiones
+MTTR, MTBF, disponibilidad, criticidad.
+
+Análisis de fallas (RCM, FMEA, RCA).
+
+Gestión de repuestos y backlog técnico.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Aplicación
+Plan de mantenimiento documentado	Planilla + ficha	Activo real o simulado
+Ficha técnica con historial y codificación	PDF o CMMS	Parte de tu sistema
+Simulación de auditoría ISO 9001 o 55001	Checklist + informe	Validación de proceso
+Cálculo y análisis de KPIs	Tabla o script	Activos en planta
+
+📚 Materiales sugeridos
+Normas ISO (extractos oficiales o resúmenes técnicos).
+
+Manual TPM JIPM, documentación ISA.
+
+CMMS propios (como el tuyo), o software como Fiix, UpKeep, etc.
+
+Artículos de confiabilidad industrial y mantenimiento.
+
+✅ Validación técnica
+Portafolio de gestión técnica con:
+
+Plan de mantenimiento
+
+Ficha con trazabilidad
+
+Análisis de fallas o criticidad
+
+Documentación alineada con al menos una norma ISO
+
+⏳ Duración sugerida
+4 a 6 semanas
+
+Dedicación estimada: 4 h/semana
