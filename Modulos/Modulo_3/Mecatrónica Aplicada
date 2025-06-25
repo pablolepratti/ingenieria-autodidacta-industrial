@@ -1,0 +1,80 @@
+🤖 Syllabus Técnico – Mecatrónica Aplicada
+🧭 Objetivo general
+Integrar conocimientos de electrónica, mecánica y control en el diseño y prototipado de sistemas automáticos e inteligentes, utilizando sensores, actuadores y controladores programables.
+
+📘 Requisitos previos
+Fundamentos de electricidad y electrónica digital.
+
+Manejo básico de herramientas de medición y simulación.
+
+Familiaridad con lógica de control y automatismos simples.
+
+🧱 Contenidos del módulo
+1. Fundamentos de mecatrónica
+Definición de sistema mecatrónico.
+
+Tipos de actuadores: motores DC, servos, pasos, solenoides.
+
+Tipos de sensores: posición, distancia, fuerza, color, etc.
+
+2. Electrónica digital aplicada
+Sistemas de numeración: binario, hexadecimal.
+
+Álgebra de Boole, compuertas lógicas.
+
+Lógica combinacional y secuencial.
+
+Multiplexores, decodificadores, flip-flops.
+
+3. Controladores programables
+Introducción a microcontroladores: Arduino, ESP32.
+
+Entradas/salidas digitales y analógicas.
+
+PWM, comunicación serial, lectura de sensores.
+
+Interacción sensor–actuador.
+
+4. Programación de automatismos
+Lógica de control con relés y PLCs básicos (LOGO!, Millenium 3, Zelio).
+
+Ladder y FBD (Function Block Diagram).
+
+Temporizadores, contadores, enclavamientos.
+
+5. Diseño asistido y prototipado
+Introducción a CAD 3D (Fusion 360, FreeCAD).
+
+Diseño de soportes, estructuras, sistemas de movimiento.
+
+Impresión 3D como recurso de prototipado.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Aplicación
+Automatismo con relés o PLC simulado	LOGO! Soft o OpenPLC	Control de carga
+Proyecto Arduino con sensor y actuador	Código + esquemático	Control físico real
+Diseño simple en Fusion 360	STL exportado	Soporte para prototipo
+Lógica con compuertas simuladas	Circuito digital	Práctica de lógica industrial
+
+📚 Materiales sugeridos
+Simuladores: Tinkercad Circuits, Logisim, Wokwi, Fritzing.
+
+Controladores: Arduino UNO, ESP32, LOGO!, Millenium 3.
+
+CAD: Fusion 360 (educativo), FreeCAD.
+
+Videos: Mecatrónica Fácil, Electronperu, BricoGeek.
+
+✅ Validación técnica
+Proyecto funcional de automatismo o sistema sensor–actuador.
+
+Video o presentación mostrando funcionamiento.
+
+Esquema, lógica, código y breve explicación técnica.
+
+(Opcional) Pieza diseñada y prototipada (impresión 3D o maqueta).
+
+⏳ Duración sugerida
+4 a 6 semanas (intensivo si hay prototipado físico)
+
+Estimación de dedicación: 5 h/semana
