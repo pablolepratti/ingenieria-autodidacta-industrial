@@ -1,0 +1,74 @@
+💻 Syllabus Técnico – Software y Hardware Industrial
+🧭 Objetivo general
+Diseñar, desarrollar e integrar soluciones de software y hardware para aplicaciones industriales, con énfasis en automatización, adquisición de datos, comunicación entre dispositivos y trazabilidad técnica.
+
+📘 Requisitos previos
+Conocimiento básico de electrónica y señales industriales.
+
+Experiencia en lógica de control (PLC o programación estructurada).
+
+Manejo básico de Python o algún lenguaje de scripting.
+
+🧱 Contenidos del módulo
+1. Fundamentos de programación aplicada
+Introducción a Python industrial: variables, estructuras, funciones.
+
+Lectura de sensores vía serial o USB.
+
+Manejo de archivos, registros técnicos, JSON, CSV.
+
+2. Bases de datos y almacenamiento
+MongoDB (NoSQL): creación, consulta, actualización, eliminación (CRUD).
+
+Estructuración de datos industriales: históricos, sensores, eventos.
+
+Integración de bases con dashboards.
+
+3. Interfaces industriales
+SCADA, HMI, dashboards: conceptos y diferencias.
+
+Herramientas libres: Node-RED, Grafana, InfluxDB, FastAPI.
+
+Visualización de datos en tiempo real.
+
+4. Programación de PLCs
+Lenguajes: Ladder, FBD, Structured Text (IEC 61131-3).
+
+Simuladores: OpenPLC, Codesys, Zelio Soft, LOGO! Soft.
+
+Interfaz PLC–SCADA–sensor.
+
+5. Protocolos de comunicación
+Modbus RTU/TCP, MQTT, OPC UA.
+
+Comunicación entre sensores, PLC, PC o nube.
+
+Seguridad y validación de datos.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Aplicación
+Script Python para lectura de sensor	Código + prueba	Interfaz hardware/software
+Panel SCADA en Node-RED	Dashboard visual	Variable en tiempo real
+CRUD MongoDB para equipo industrial	Script + base	Parte de CMMS real
+Comunicación Modbus entre dispositivos	Config + prueba	Sensor ↔ PLC ↔ PC
+
+📚 Materiales sugeridos
+Librerías: pymodbus, pymongo, dash, streamlit, influxdb.
+
+Simuladores: Node-RED, OpenPLC, Codesys.
+
+Videos: Control Automático LATAM, Makers UPV, Streamlit Oficial.
+
+Docs reales: API de sensores, documentación CMMS/MIA.
+
+✅ Validación técnica
+Proyecto completo de adquisición, registro y visualización de una variable física.
+
+Documentación técnica del sistema: flujo de datos, scripts, base, dashboard.
+
+Demostración funcional o grabación técnica.
+
+⏳ Duración sugerida
+6 a 8 semanas (según profundidad)
+
+Estimación de dedicación: 5 a 6 h/semana
