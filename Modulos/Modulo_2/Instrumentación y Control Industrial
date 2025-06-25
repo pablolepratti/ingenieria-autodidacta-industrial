@@ -1,0 +1,82 @@
+🎓 Syllabus Técnico – Instrumentación y Control Industrial
+🧭 Objetivo general
+Desarrollar competencias para seleccionar, instalar, calibrar y mantener instrumentos industriales de medición y control, y comprender el funcionamiento de lazos de control automático aplicados a procesos reales.
+
+📘 Requisitos previos
+Fundamentos de electricidad y electrónica básica.
+
+Conocimiento básico de señales (0–10 V, 4–20 mA).
+
+Experiencia en planta o con sensores (no excluyente).
+
+🧱 Contenidos del módulo
+1. Fundamentos de Instrumentación
+Variables físicas: presión, temperatura, caudal, nivel.
+
+Tipos de sensores y transmisores: RTD, termocuplas, manómetros, ultrasónicos.
+
+Señales analógicas (4–20 mA, 0–10 V) y digitales (on/off).
+
+Identificación de rangos, span, cero.
+
+2. Protocolos y Señales Industriales
+Protocolos: HART, Modbus, 4–20 mA, RS-485, I²C (nivel introductorio).
+
+Conversión de señales: ADC/DAC.
+
+Fuentes, alimentación y protecciones.
+
+3. Calibración y Trazabilidad
+Ajuste de cero y span.
+
+Instrumentos patrón, curvas de calibración.
+
+Fichas técnicas, hojas de calibración, trazabilidad metrológica.
+
+4. Controladores y Lazos de Control
+Control on/off, proporcional, PID.
+
+Parámetros PID: Kp, Ki, Kd.
+
+Respuesta al escalón, estabilidad, tiempo de respuesta.
+
+Introducción a simulación con Python o Node-RED.
+
+5. Aplicación en Campo
+Relevamiento de instrumentos en planta.
+
+Diagnóstico de fallas, rutinas de mantenimiento.
+
+Propuestas de mejora.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Relación con fábrica
+Inventario técnico de sensores	PDF/planilla	Relevamiento real
+Simulación de lazo PID	Python o Node-RED	Modelo de control
+Calibración simulada/documentada	Hoja técnica	Aplicable a instrumentos reales
+Lectura de sensor físico por PC	Hardware + Modbus serial	Prototipo real o de laboratorio
+
+📚 Materiales sugeridos
+Simuladores: Node-RED, InstrumentationToolkit, Factory IO, FluidSIM.
+
+Lectura: Manuales de instrumentación (ISA), fichas técnicas reales, apuntes propios.
+
+Videos: Control Station, YouTube (Soluciones Automáticas, Automación y Control LATAM).
+
+✅ Validación técnica
+Entrega de informe técnico final con:
+
+2 proyectos documentados
+
+1 hoja de calibración (real o simulada)
+
+Capturas de simulaciones o código
+
+Ficha resumen del módulo (tipo README)
+
+⏳ Duración sugerida
+4 a 6 semanas (adaptable a tu ritmo)
+
+Estimación de dedicación: 4 h/semana
+
+
