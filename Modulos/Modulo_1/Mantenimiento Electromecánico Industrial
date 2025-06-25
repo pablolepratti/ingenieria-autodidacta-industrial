@@ -1,0 +1,81 @@
+🛠️ Mantenimiento Electromecánico Industrial
+🧭 Objetivo general
+Desarrollar competencias para diagnosticar, ejecutar y optimizar tareas de mantenimiento eléctrico y mecánico en equipos industriales, aplicando criterios técnicos, seguridad, normas y trazabilidad.
+
+📘 Requisitos previos
+Lectura e interpretación de planos eléctricos/mecánicos.
+
+Uso básico de herramientas de medición.
+
+Conocimiento general de entornos industriales.
+
+🧱 Contenidos del módulo
+1. Fundamentos eléctricos
+Ley de Ohm, leyes de Kirchhoff.
+
+Circuitos en serie, paralelo, mixtos.
+
+Potencia, energía, multímetro, mediciones.
+
+2. Motores y accionamientos
+Motores de corriente alterna y continua.
+
+Arranques directos, estrella-triángulo, inversión.
+
+Variadores de frecuencia (VFD), protecciones térmicas.
+
+3. Mecánica industrial básica
+Máquinas simples (plano inclinado, palancas).
+
+Torque, rozamiento, transmisión de fuerza.
+
+Mecanismos industriales comunes.
+
+4. Materiales y tratamientos térmicos
+Aceros: clasificación SAE, propiedades mecánicas y tecnológicas.
+
+Tratamientos: recocido, temple, revenido, cementación.
+
+5. Máquinas herramientas y mecanizado
+Torno, fresadora, taladro, rectificadora.
+
+Cálculo de rpm, velocidad de corte.
+
+Selección de herramientas según material.
+
+6. Gestión del mantenimiento
+Tipos: correctivo, preventivo, predictivo.
+
+TPM (Total Productive Maintenance).
+
+5S, historial de equipos, dossiers técnicos.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Aplicación
+Esquemas de arranques eléctricos	Diagramas y simulaciones	Taller/planta
+Análisis de falla mecánica real	Informe técnico	Planta o simulador
+Plan de mantenimiento preventivo	Planilla + checklist	Activo técnico real
+Ensayo de resistencia de material	Ficha técnica	Apoyo a diagnóstico
+
+📚 Materiales sugeridos
+Simuladores: Tinkercad Circuits, EveryCircuit, LogixPro.
+
+Videos: TecnoRed, Mantenimiento Industrial LATAM.
+
+Lectura: Manuales de mantenimiento, fichas de motores, catálogo WEG o Siemens.
+
+✅ Validación técnica
+Entrega de informe técnico con:
+
+Esquema eléctrico resuelto o simulado
+
+Diagnóstico de falla (real o simulada)
+
+Plan preventivo básico para un equipo
+
+Ficha técnica de material o motor
+
+⏳ Duración sugerida
+6 a 8 semanas (flexible)
+
+Estimación de dedicación: 4 a 6 h/semana
