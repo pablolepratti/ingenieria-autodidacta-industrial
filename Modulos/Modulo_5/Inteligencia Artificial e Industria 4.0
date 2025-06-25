@@ -1,0 +1,74 @@
+🧠 Syllabus Técnico – Inteligencia Artificial e Industria 4.0
+🧭 Objetivo general
+Aplicar técnicas de inteligencia artificial y herramientas de la Industria 4.0 para desarrollar sistemas inteligentes de análisis, predicción, optimización y monitoreo en entornos industriales reales.
+
+📘 Requisitos previos
+Manejo básico de Python.
+
+Conocimientos de instrumentación, mantenimiento y procesos industriales.
+
+Familiaridad con lectura y registro de datos de sensores.
+
+🧱 Contenidos del módulo
+1. Fundamentos de Industria 4.0
+Sensores inteligentes, trazabilidad, digitalización.
+
+IIoT (Industrial Internet of Things), edge computing.
+
+Conectividad entre dispositivos, máquinas, sistemas y nube.
+
+2. Introducción a IA aplicada
+Tipos de IA: supervisada, no supervisada, por refuerzo.
+
+Flujo básico de un modelo de ML: dataset, entrenamiento, validación, predicción.
+
+Librerías: scikit-learn, pandas, numpy, matplotlib.
+
+3. Aplicaciones industriales de IA
+Mantenimiento predictivo (PdM): predicción de fallas.
+
+Análisis de tendencias, clustering de comportamientos anómalos.
+
+Agentes inteligentes para diagnóstico automatizado (como MIA).
+
+4. Integración de sensores y datos
+Adquisición en tiempo real: MQTT, Modbus, serial.
+
+Dashboards con IA integrada (ej: Streamlit, Dash, Grafana).
+
+Envío de alertas inteligentes por lógica o predicción.
+
+5. Visualización y toma de decisiones
+Gráficos y estadísticas técnicas.
+
+Paneles de control inteligentes.
+
+Sistemas de recomendación o prescripción.
+
+🛠️ Actividades prácticas
+Actividad	Formato	Aplicación
+Entrenamiento de un modelo de predicción simple	Python notebook	Tiempo de falla o evento
+Dashboard con IA integrada	Streamlit o Node-RED	Visualización inteligente
+Agente MIA funcional (mínimo viable)	Script + lógica	Detección o recomendación
+Integración con sensor real o simulado	Hardware/software	Adquisición + inferencia
+
+📚 Materiales sugeridos
+Cursos: IA para ingenieros (Coursera), Machine Learning for Engineers (freeCodeCamp).
+
+Librerías: scikit-learn, xgboost, pandas, seaborn, dash, streamlit, fastapi.
+
+Simuladores y fuentes: Módulos de datos simulados, sensores reales o virtuales.
+
+✅ Validación técnica
+Presentación de sistema funcional:
+
+IA + sensor + visualización + lógica de acción
+
+Documento técnico con:
+
+Esquema, datasets, modelo, código comentado, análisis de resultados
+
+⏳ Duración sugerida
+6 a 10 semanas (flexible según experiencia en IA)
+
+Dedicación estimada: 6 h/semana
