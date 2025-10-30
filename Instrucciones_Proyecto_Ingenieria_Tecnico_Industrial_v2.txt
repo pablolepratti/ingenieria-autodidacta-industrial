@@ -1,0 +1,53 @@
+📘 Instrucciones del Proyecto – Ingeniería Técnico-Industrial Autodidacta
+
+Este proyecto representa la construcción autodidacta, aplicada y rigurosa de una carrera técnica de nivel terciario, diseñada a medida para formar un perfil técnico-industrial completo, autónomo y disruptivo, enfocado en la realidad de planta, la integración tecnológica y la innovación con impacto.
+
+🧭 Visión del proyecto
+Diseñar y recorrer una ingeniería multidisciplinaria que abarque mantenimiento industrial, instrumentación, control, mecatrónica, software, inteligencia artificial, normas técnicas y sistemas reales, con énfasis en la aplicación concreta, la trazabilidad del conocimiento y la validación funcional de cada competencia.
+
+📌 Estructura general
+- El proyecto se divide en 8 módulos troncales, cada uno alojado en un chat propio.
+- Cada módulo tiene su syllabus técnico, actividades prácticas, recursos, validación y documentación técnica.
+- El último módulo es el Proyecto Final Integrador, donde todo se une en un sistema real como CMMS o MIA.
+
+🧱 Módulos de la Ingeniería Autodidacta
+Nº  Módulo                                  Descripción
+0️⃣  Fundamentos Transversales y Marco Conceptual
+    Energía, señales, pensamiento sistémico, ética técnica, interdisciplinariedad, método autodidacta
+1️⃣  Mantenimiento Electromecánico Industrial
+    Fundamentos eléctricos, mecánicos, motores, máquinas herramientas, seguridad y TPM
+2️⃣  Instrumentación y Control Industrial
+    Sensores, señales, calibración, controladores, PID, lazos de control y protocolos
+3️⃣  Mecatrónica Aplicada
+    Electrónica digital, automatismos, microcontroladores, CAD, prototipado y actuadores
+4️⃣  Software y Hardware Industrial
+    Python, bases de datos, SCADA, PLC, comunicaciones industriales y trazabilidad
+5️⃣  IA e Industria 4.0
+    Machine learning, mantenimiento predictivo, dashboards, IIoT, agentes inteligentes
+6️⃣  Normas Técnicas y Gestión Industrial
+    ISO, ISA, documentación técnica, KPIs, CMMS, trazabilidad y confiabilidad
+7️⃣  Proyecto Final Integrador
+    Desarrollo completo de un sistema técnico aplicado, funcional y documentado
+
+🧠 Metodología de trabajo
+- El asistente te acompaña módulo por módulo: cuando finalizás uno, te guía directamente al siguiente, semana a semana, con foco y continuidad técnica.
+- Cada módulo es un entorno de estudio y aplicación: se parte de lo que ya sabés y se construye hacia lo que necesitás dominar.
+- Se prioriza el aprendizaje práctico, crítico y documentado: nada se estudia “porque sí”, todo se vincula con lo que hacés o vas a hacer.
+- Cada avance se convierte en parte de tu portafolio técnico personal (informes, dashboards, código, fichas, proyectos).
+- El tiempo es autogestionado y adaptado a tu realidad operativa.
+- El asistente te acompaña módulo por módulo: cuando finalizás uno, él registra tu avance y te guía hacia el siguiente, con foco y continuidad técnica.
+
+🧾 Validación y cierre
+- Al finalizar cada módulo, se entregan productos técnicos concretos (prototipos, informes, visualizaciones, fichas).
+- El proyecto final actúa como defensa técnica de todo lo recorrido: funcional, documentado y conectado con la industria real.
+
+📚 Recursos disponibles
+- Simuladores, manuales, videos, scripts, dashboards y normas técnicas.
+- Herramientas digitales como GitHub, Streamlit, MongoDB, Node-RED, Python, etc.
+- Espacio para integrar con CMMS, MIA y otros proyectos reales.
+
+🔎 Evaluación y trazabilidad
+- Todas las entregas se evaluarán con la rúbrica definida en `/RUBRICA_GENERAL.md`.
+- La documentación deberá utilizar las plantillas provistas en `/Plantillas`.
+- El Proyecto Final Integrador deberá demostrar la integración con, al menos, uno de los sistemas vivos (CMMS Fábrica o MIA).
+- Se prioriza el uso de normas ISO 55001, ISO 14224 e ISA/DIN cuando corresponda.

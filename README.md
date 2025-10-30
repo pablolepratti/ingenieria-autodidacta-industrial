@@ -54,3 +54,13 @@ La validación es técnica: se genera evidencia como informes, códigos, dashboa
 ## 💬 Contacto
 
 Este proyecto es personal y experimental. Todo feedback es bienvenido.
+
+## Cómo usar esta ingeniería
+
+Podés cursarla de tres maneras:
+
+1. **Modo planta (recomendado):** aplicás solo lo que tu fábrica necesita hoy y lo documentás con las plantillas.
+2. **Modo completo:** seguís los 8 módulos en orden y entregás todo con la rúbrica.
+3. **Modo portfolio:** elegís 3 proyectos oficiales (CMMS Fábrica, MIA Lite y un sistema embebido) y los dejás listos para mostrar.
+
+Todas las entregas deben registrar el evento en el CMMS (`historial`) cuando aplique.
